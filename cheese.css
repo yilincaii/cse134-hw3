@@ -1,5 +1,11 @@
 /* Deployed page: https://tiny-torrone-6e01d4.netlify.app/ */
 
+
+/*
+	@import is used for this assignment.
+	In production, <link> is preferred because it allows stylesheets
+	to be discovered and downloaded earlier.
+*/
 @import "variables.css";
 * {
 	margin: 0;
